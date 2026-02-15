@@ -17,7 +17,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url(pictures/amazon_logo.png);
+    background-image: url(pictures/amazonlogo.png);
     height: 100%;
     width: 100%;
     background-size: cover;
@@ -92,7 +92,7 @@
     
 }
 .flag{
-    background-image: url(pictures/vqXWsNPg$9994Pg.png);
+    background-image: url(pictures/flagimg.png);
     background-size: cover;
     background-position: center;
     height: 100%;
@@ -314,7 +314,7 @@
     color: #0f1871;
 }
 .special .box-t .amb2{
-    background-image: url(pictures/11Wk9vkPRcL.jpg);
+    background-image: url(pictures/orangeamazon.jpg);
     height: 100%;
     width: 120px;
     background-size: cover;
@@ -322,7 +322,7 @@
 }
 .special .box-b{
     /* background-color: pink; */
-    background-image: url(pictures/81c1evyC9jL._SX679_.jpg);
+    background-image: url(pictures/boottm.jpg);
     background-size: cover;
     /* background-position: center; */
     height: 60%;
