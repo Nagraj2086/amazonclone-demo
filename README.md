@@ -1,6 +1,6 @@
 # amazonclone-demo
 
-This is my Amazon Clone<br>
+This is my Amazon UI Clone<br>
 🚀 Just Build an amazon clone using HTML & CSS<br>
 I Create a Front-end clone of amazon website for my improving Layouts & Stylings skills.<br>
 💻Build with :<br>
